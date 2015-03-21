@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: webview
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: webview
+moduleid: com.kaga.webview
+guid: c78a8268-f5cd-4d61-a5d5-bcd633aa59cf
+platform: iphone
+minsdk: 3.4.1.GA
